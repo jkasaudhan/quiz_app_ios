@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>HockeySDKResources.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Pods-PlantsQuizApp-COSTouchVisualizer.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Pods-PlantsQuizApp-HockeySDK.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Pods-PlantsQuizApp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0692C36A867DB6E11B7242A5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>07D533E52DE5784A1D1CC99D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4D87536E2D4A576911B74CCE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B2874777007DFA284D0E40F0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

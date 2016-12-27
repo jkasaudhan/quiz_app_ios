@@ -1,0 +1,119 @@
+
+/* Class = "IBUILabel"; text = "Category"; ObjectID = "1TK-z9-bZq"; */
+"1TK-z9-bZq.text" = "Kategorie";
+
+/* Class = "IBUILabel"; text = "Category4"; ObjectID = "239-2Q-mTh"; */
+"239-2Q-mTh.text" = "Category4";
+
+/* Class = "IBUILabel"; text = "Trees"; ObjectID = "25O-8f-pGU"; */
+"25O-8f-pGU.text" = "Bäume";
+
+/* Class = "IBUILabel"; text = "Category9"; ObjectID = "6Da-cf-ECu"; */
+"6Da-cf-ECu.text" = "Category9";
+
+/* Class = "IBUILabel"; text = "Category8"; ObjectID = "8XT-ym-cVJ"; */
+"8XT-ym-cVJ.text" = "Category8";
+
+/* Class = "IBUIButton"; normalTitle = "Hard"; ObjectID = "983-yF-NDo"; */
+"983-yF-NDo.normalTitle" = "Schwer";
+
+/* Class = "IBUILabel"; text = "Category11"; ObjectID = "A39-ub-C8F"; */
+"A39-ub-C8F.text" = "Category11";
+
+/* Class = "IBUILabel"; text = "Category12"; ObjectID = "Fz3-eC-8kI"; */
+"Fz3-eC-8kI.text" = "Category12";
+
+/* Class = "IBUIButton"; normalTitle = "Statistics"; ObjectID = "GGn-Zx-jqx"; */
+"GGn-Zx-jqx.normalTitle" = "Statistik";
+
+/* Class = "IBUILabel"; text = "QuestionText"; ObjectID = "Kqk-ez-q2j"; */
+"Kqk-ez-q2j.text" = "QuestionText";
+
+/* Class = "IBUITextView"; text = "this is the screen for loading questions into for the multiplayer version. the same screen can be re used from the single player version depending on whether the screen animations can be modified based on requirements"; ObjectID = "L3i-jJ-KHL"; */
+"L3i-jJ-KHL.text" = "this is the screen for loading questions into for the multiplayer version. the same screen can be re used from the single player version depending on whether the screen animations can be modified based on requirements";
+
+/* Class = "IBUILabel"; text = "Difficulty"; ObjectID = "N7C-8l-GKg"; */
+"N7C-8l-GKg.text" = "Schwierigkeit";
+
+/* Class = "IBUIButton"; normalTitle = "Back"; ObjectID = "NPa-KA-B1a"; */
+"NPa-KA-B1a.normalTitle" = "Back";
+
+/* Class = "IBUILabel"; text = "Category1"; ObjectID = "QqL-VS-Lv4"; */
+"QqL-VS-Lv4.text" = "Category1";
+
+/* Class = "IBUITextView"; text = "this is my help page"; ObjectID = "T5X-cB-7dw"; */
+"T5X-cB-7dw.text" = "this is my help page";
+
+/* Class = "IBUIButton"; normalTitle = "Easy"; ObjectID = "TYx-H4-zIT"; */
+"TYx-H4-zIT.normalTitle" = "leicht";
+
+/* Class = "IBUILabel"; text = "Category3"; ObjectID = "TaA-j0-tbS"; */
+"TaA-j0-tbS.text" = "Category3";
+
+/* Class = "IBUIButton"; normalTitle = "Multiplayer"; ObjectID = "TaR-ov-XwV"; */
+"TaR-ov-XwV.normalTitle" = "Multiplayer";
+
+/* Class = "IBUILabel"; text = "Category6"; ObjectID = "W91-sO-cUW"; */
+"W91-sO-cUW.text" = "Category6";
+
+/* Class = "IBUILabel"; text = "Plant Quiz"; ObjectID = "XFG-cf-0fm"; */
+"XFG-cf-0fm.text" = "Pflanzen Quiz";
+
+/* Class = "IBUILabel"; text = "Herbs"; ObjectID = "ZJX-HW-7Ir"; */
+"ZJX-HW-7Ir.text" = "Kräuter";
+
+/* Class = "IBUIButton"; normalTitle = "Home"; ObjectID = "ZYW-xz-Pnw"; */
+"ZYW-xz-Pnw.normalTitle" = "Home";
+
+/* Class = "IBUIButton"; normalTitle = "Recognize"; ObjectID = "d1a-X6-RKo"; */
+"d1a-X6-RKo.normalTitle" = "erkennen";
+
+/* Class = "IBUILabel"; text = "Topic"; ObjectID = "e0G-nc-BIB"; */
+"e0G-nc-BIB.text" = "Thema";
+
+/* Class = "IBUILabel"; text = "QuestionText"; ObjectID = "fyR-Q5-Pzf"; */
+"fyR-Q5-Pzf.text" = "QuestionText";
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "is9-F8-5II"; */
+"is9-F8-5II.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "IBUITextView"; text = "this view will be loaded with the google play framework details.
+I am not yet sure whether we need to have a view into which the google framework stuff will be loaded into or it will be directly loaded from google. Also i am not sure whether we will need one view from gogle or multiple, hence I only add a single view for now, this can be changed once we have the final decision"; ObjectID = "j1v-RP-yEJ"; */
+"j1v-RP-yEJ.text" = "this view will be loaded with the google play framework details.
+I am not yet sure whether we need to have a view into which the google framework stuff will be loaded into or it will be directly loaded from google. Also i am not sure whether we will need one view from gogle or multiple, hence I only add a single view for now, this can be changed once we have the final decision";
+
+/* Class = "IBUILabel"; text = "Shurbs"; ObjectID = "kdg-zB-Ii5"; */
+"kdg-zB-Ii5.text" = "Sträucher";
+
+/* Class = "IBUILabel"; text = "Leaves"; ObjectID = "lWQ-v7-bLf"; */
+"lWQ-v7-bLf.text" = "Laub";
+
+/* Class = "IBUILabel"; text = "Category10"; ObjectID = "msL-ge-qc9"; */
+"msL-ge-qc9.text" = "Category10";
+
+/* Class = "IBUITextView"; text = "this is the statistics page"; ObjectID = "mtS-cZ-9qy"; */
+"mtS-cZ-9qy.text" = "this is the statistics page";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "oVL-5b-U2S"; */
+"oVL-5b-U2S.normalTitle" = "Next";
+
+/* Class = "IBUILabel"; text = "Category7"; ObjectID = "poD-ef-h14"; */
+"poD-ef-h14.text" = "Category7";
+
+/* Class = "IBUIButton"; normalTitle = "Back"; ObjectID = "qEc-kN-gF8"; */
+"qEc-kN-gF8.normalTitle" = "Back";
+
+/* Class = "IBUIButton"; normalTitle = "Exam"; ObjectID = "sH7-Qm-xmb"; */
+"sH7-Qm-xmb.normalTitle" = "Prüfung";
+
+/* Class = "IBUILabel"; text = "Category2"; ObjectID = "sMG-lZ-HR5"; */
+"sMG-lZ-HR5.text" = "Category2";
+
+/* Class = "IBUILabel"; text = "Category5"; ObjectID = "sWJ-lt-Zc3"; */
+"sWJ-lt-Zc3.text" = "Category5";
+
+/* Class = "IBUIButton"; normalTitle = "Back"; ObjectID = "uno-u0-S5S"; */
+"uno-u0-S5S.normalTitle" = "Back";
+
+/* Class = "IBUIButton"; normalTitle = "Usage"; ObjectID = "ygE-VJ-RPT"; */
+"ygE-VJ-RPT.normalTitle" = "Verwendung";

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>10E8316B-03B8-4745-A251-42280B66A54C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PlantsQuizApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>03BF6F0AAEA05A9C9F72A33AC7A9D7B206550BA3</key>
+		<string>https://repobruegge.in.tum.de/scm/ios1415plant/quizapp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PlantsQuizApp.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>03BF6F0AAEA05A9C9F72A33AC7A9D7B206550BA3</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://repobruegge.in.tum.de/scm/ios1415plant/quizapp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>03BF6F0AAEA05A9C9F72A33AC7A9D7B206550BA3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>03BF6F0AAEA05A9C9F72A33AC7A9D7B206550BA3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>quizApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

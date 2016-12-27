@@ -1,0 +1,11 @@
+workspace 'PlantsQuizApp'
+platform :ios, '8.0'
+xcodeproj 'PlantsQuizApp/PlantsQuizApp.xcodeproj'
+source 'https://github.com/CocoaPods/Specs.git'
+inhibit_all_warnings!
+
+target "PlantsQuizApp" do
+  xcodeproj 'PlantsQuizApp/PlantsQuizApp.xcodeproj'
+  pod 'HockeySDK', '3.6.1'
+  pod 'COSTouchVisualizer'
+end

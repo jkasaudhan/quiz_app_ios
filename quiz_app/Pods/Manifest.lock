@@ -1,0 +1,13 @@
+PODS:
+  - COSTouchVisualizer (1.0.3)
+  - HockeySDK (3.6.1)
+
+DEPENDENCIES:
+  - COSTouchVisualizer
+  - HockeySDK (= 3.6.1)
+
+SPEC CHECKSUMS:
+  COSTouchVisualizer: 2edcc5626758400d90e50ebf5a7740076c82d1b5
+  HockeySDK: 15b24068466aa5ee421eed0cc1d58428d698edf6
+
+COCOAPODS: 0.34.1

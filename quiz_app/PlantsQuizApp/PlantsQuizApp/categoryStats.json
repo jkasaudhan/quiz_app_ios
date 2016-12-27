@@ -1,0 +1,22 @@
+ [
+  {
+  "categoryID" : 1,
+  "answeredCounts" : 0,
+  "correctCounts" : 0
+  },
+  {
+  "categoryID" : 2,
+  "answeredCounts" : 0,
+  "correctCounts" : 0
+  },
+  {
+  "categoryID" : 3,
+  "answeredCounts" : 0,
+  "correctCounts" : 0
+  },
+  {
+  "categoryID" : 4,
+  "answeredCounts" : 0,
+  "correctCounts" : 0
+  }
+]

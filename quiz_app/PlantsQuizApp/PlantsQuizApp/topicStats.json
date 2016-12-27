@@ -1,0 +1,22 @@
+[
+ {
+ "topicID" : 1,
+ "answeredCounts" : 0,
+ "correctCounts" : 0
+ },
+ {
+ "topicID" : 2,
+ "answeredCounts" : 0,
+ "correctCounts" : 0
+ },
+ {
+ "topicID" : 3,
+ "answeredCounts" : 0,
+ "correctCounts" : 0
+ },
+ {
+ "topicID" : 4,
+ "answeredCounts" : 0,
+ "correctCounts" : 0
+ }
+]

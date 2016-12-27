@@ -1,0 +1,42 @@
+ [
+  {
+    "topicID" : 1,
+    "categoryID" : 1,
+    "categoryName" : "Ruderal"
+  },
+  {
+    "topicID" : 1,
+    "categoryID" : 2,
+    "categoryName" : "Competitive"
+  },
+  {
+    "topicID" : 2,
+    "categoryID" : 3,
+    "categoryName" : "Category 3"
+  },
+  {
+    "topicID" : 3,
+    "categoryID" : 4,
+    "categoryName" : "Poikilohydry"
+  },
+  {
+  "topicID" : 1,
+  "categoryID" : 5,
+  "categoryName" : "Montan"
+  },
+  {
+  "topicID" : 1,
+  "categoryID" : 6,
+  "categoryName" : "Alpin"
+  },
+  {
+  "topicID" : 3,
+  "categoryID" : 7,
+  "categoryName" : "Category 7"
+  },
+  {
+  "topicID" : 4,
+  "categoryID" : 8,
+  "categoryName" : "Category 8"
+  }
+]
